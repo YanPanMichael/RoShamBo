@@ -1,5 +1,5 @@
-package com.duolufenfa.test;
-import static com.duolufenfa.test.Outcome.*;
+package com.duolufenfa.version1;
+import static com.duolufenfa.version1.Outcome.*;
 
 import java.util.Random;
 interface Item {
